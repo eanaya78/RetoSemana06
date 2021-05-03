@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ #txtTarea{
+    width: 300px;
+    height: 35px;
+    padding: 10px;
+    border-radius: 5px;
+ } 
+
+#btnNew{
+    background-color: green;
+    color: white;
+    width: 70px;
+    height: 35px;
+    border-radius: 5px;
+}
